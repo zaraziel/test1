@@ -1,0 +1,3 @@
+source 'https://supermarket.getchef.com'
+
+cookbook 'apt', git: 'https://github.com/zaraziel/test1.git', rel: 'apt'
